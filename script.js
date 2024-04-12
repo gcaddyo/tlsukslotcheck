@@ -12,9 +12,9 @@
 
 (function() {
     'use strict';
-    
         function getApiKey() {
-            return "写入你的key";  // 修改为你的bark的key
+            //自定义用户key
+            return "替换为您的bark key";
         }
 
         function scheduleReload() {
