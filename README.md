@@ -22,7 +22,7 @@ https://visas-fr.tlscontact.com/services/customerservice/api/tls/appointment/gb/
 https://visas-fr.tlscontact.com/services/customerservice/api/tls/appointment/gb/gbLON2fr/table?client=fr&formGroupId=你的groupid&appointmentType=Short_Stay&appointmentStage=appointment
 ```
 
-3. 保持页面打开并等待自动刷新。
+3. 保持页面打开在最前端并等待自动刷新。
 4. 运行过程中请勿关闭网页，关闭网页会导致脚本自动停止。
 
 完成上述步骤后，保持浏览器窗口打开。脚本将自动检测预约位置的可用性。一旦检测到可用位置，脚本会自动通过 Bark 应用发送通知到您的手机，并将所有可用时间输出在网页控制台（Console）中。
