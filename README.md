@@ -2,7 +2,7 @@
 ## 设置
 这是一个用于检查 TLS 签证中心法国签证预约位置可用性的 Tampermonkey（篡改猴/油猴）脚本。要使用此脚本，您需要首先完成以下几个步骤：
 
-1. 下载并安装应用 **Bark**，用于接收通知。
+1. 在你的手机下载并安装应用 **Bark**，用于接收通知。
 2. 获取您的个人通知 Key。例如，如果您的 URL 是 `https://api.day.app/MPw9GawATC33fNEhwDPynK/`，则您的 Key 是 `MPw9GawATC33fNEhwDPynK`。
 3. 在脚本中找到相应的位置，将您的 Key 替换进去。
 
