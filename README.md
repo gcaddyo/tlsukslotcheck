@@ -24,3 +24,4 @@ https://visas-fr.tlscontact.com/services/customerservice/api/tls/appointment/gb/
 ```
 
 完成上述步骤后，留下浏览器窗口打开，脚本将自动检测预约位置的可用性。一旦检测到可用位置，脚本会自动通过 Bark 应用发送通知到您的手机。
+同时会把所有可用时间输出在网页控制台的console页面。
