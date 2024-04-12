@@ -14,7 +14,7 @@
     'use strict';
     
         function getApiKey() {
-            return "MPw9GawATC33fNEhwDPynK";  // 修改为你的bark的key
+            return "写入你的key";  // 修改为你的bark的key
         }
 
         function scheduleReload() {
